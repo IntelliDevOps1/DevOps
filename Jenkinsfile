@@ -9,3 +9,5 @@ if (x==200){
 print "value is 200"
 }
 
+if (y==5.5)
+print YES
