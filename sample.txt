@@ -1,1 +1,2 @@
 adding a sample file into repo
+checking in code for looping by adding a for loop command - 2
